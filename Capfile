@@ -1,4 +1,5 @@
 # Load DSL and Setup Up Stages
+# Copyleft Stefan Edevåg
 require 'capistrano/setup'
 
 # Includes default deployment tasks
